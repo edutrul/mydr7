@@ -2,3 +2,5 @@ example
 test branch
 
 cool
+
+Master won't see this line
